@@ -7,3 +7,6 @@ node_modules/
 .env.production.local
 .vercel
 *.log
+
+# Next.js export
+out/
